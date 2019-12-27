@@ -1,6 +1,6 @@
 ## Overview about Zoology
 
-Zoology (also known as animal science) is a field of science that encounters with animal's behavior, structure, classification, and distribution of animals. It covers areas ranging from the structure of organisms to the subcellular unit of life. Some zoologist are interested in some aspects of animals whilee other can be intriguede by their function or their structure.
+Zoology (also known as animal science) is a field or a branch of a science compartment that encounters with animal's behavior, structure, classification, and distribution of animals. It covers areas ranging from the structure of organisms to the subcellular unit of life. Some zoologist are interested in some aspects of animals while others can be intrigued by their function or their structure.
 Some animlas includes:
 * Tiger
 <img src="https://detroitzoo.org/wp-content/uploads/2015/08/Tiger.jpg" width="300"/>
