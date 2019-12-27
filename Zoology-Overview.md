@@ -7,4 +7,4 @@ Some animlas includes:
 * Giraffe
 <img src="https://www.denverzoo.org/wp-content/uploads/2018/09/giraffe-encounter-button-1.jpg" width="300"/>
 * Chimpanzee
-* <img src="https://animals.sandiegozoo.org/sites/default/files/2016-10/animals_hero_chimpanzee.jpg" width="300"/>
+ <img src="https://animals.sandiegozoo.org/sites/default/files/2016-10/animals_hero_chimpanzee.jpg" width="300"/>
