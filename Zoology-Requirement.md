@@ -9,3 +9,5 @@ A Zoologist works in wildlife and conservation research, zoos and universities. 
  *  **Second,** you need to have logic and critical thinking skills to excel in other scientific areas. Zoologists work to solve mysteries by examining and analyzing aberrant behavior, such as marine mammals beaching themselves. In addition, technology field knowledge are mandatory because this will allow them to track and calculate wildlife populations, research issues and disseminate information.
 
  *  **Third,** you need to have endurance and stamina to be able to lift or handle animals, collect samples, or catch specific specimens. In addition, physical physique and written and verbal skills are required to be able to confront with any obstacles.
+
+ *  **Lastly,** if you want a higher percentage in becoming qualify for the position you can advance your position from a zookeeper to a curator. This will Those who advised to gain practical experience to enhance their qualifications. This can involve internships or other entry level positions associated with animals.
