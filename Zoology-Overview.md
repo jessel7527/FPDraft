@@ -14,3 +14,4 @@ Zoology is both descriptive and analytical. It can be approached either as a bas
 * Chimpanzee
  <img src="https://animals.sandiegozoo.org/sites/default/files/2016-10/animals_hero_chimpanzee.jpg" width="300"/>
 
+[What are different branches in Zoology](Zoology-Branches.md)
