@@ -12,3 +12,9 @@ In zoology, mammalogy is the study of mammals – a class of vertebrates with ch
 In zoology, Primatology is the study of the primate order of mammals—other than recent humans (Homo sapiens).
 
 <img src="https://www.neverapart.com/wp-content/uploads/2016/10/janewithchimp-1280x790-2-1280x790.jpg" width="300"/>
+
+* **Ichthyology**
+
+In zoology, Ichthyology also known as fish science, is the branch of zoology devoted to the study of fish. This includes bony fish (Osteichthyes), cartilaginous fish (Chondrichthyes), and jawless fish (Agnatha).
+
+<img src="https://riverplacecapital.com/wp-content/uploads/2014/04/04-14-14.jpg" width="300"/>
