@@ -6,9 +6,9 @@ There should be **at least FOUR** files saved into this repository:
 * The Second Content File
 * The Third Content File
 
-Each content file should be named for the Research you are doing on the Freedom Project. 
-For example, you may be doing Epilepsy as a topic. Your three files would each correspond to the 
-subtopics you are writing about that topic. 
+Each content file should be named for the Research you are doing on the Freedom Project.
+For example, you may be doing Epilepsy as a topic. Your three files would each correspond to the
+subtopics you are writing about that topic.
 Keep in mind that in the future, these would likely each correspond to a page on your website.
 
 
@@ -26,3 +26,5 @@ _YOUR TASKS:_
 5. Save, add, commit, push it to Github.
 6. Begin writing the text for your website in the file.
 7. Remember to save, add, commit, push.
+
+[What is Zoology](Zoology-Overview.md)
