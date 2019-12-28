@@ -11,3 +11,5 @@ A Zoologist works in wildlife and conservation research, zoos and universities. 
  *  **Third,** you need to have endurance and stamina to be able to lift or handle animals, collect samples, or catch specific specimens. In addition, physical physique and written and verbal skills are required to be able to confront with any obstacles.
 
  *  **Lastly,** if you want a higher percentage in becoming qualify for the position you can advance your position from a zookeeper to a curator. This will Those who advised to gain practical experience to enhance their qualifications. This can involve internships or other entry level positions associated with animals.
+
+ [Home](README.md)
