@@ -24,3 +24,5 @@ In zoology, Ichthyology also known as fish science, is the branch of zoology dev
 In zoology,Ornithology is a branch of zoology that concerns the study of birds. Several aspects of ornithology differ from related disciplines, due partly to the high visibility and the aesthetic appeal of birds.
 
 <img src="https://www.environmentalscience.org/wp-content/uploads/2014/10/Ornithology-Intro-300x300.jpg" width="300"/>
+
+[What are the qualification in becoming a Zoologist](Zoology-Requirement.md)
