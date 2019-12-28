@@ -18,3 +18,9 @@ In zoology, Primatology is the study of the primate order of mammals—other tha
 In zoology, Ichthyology also known as fish science, is the branch of zoology devoted to the study of fish. This includes bony fish (Osteichthyes), cartilaginous fish (Chondrichthyes), and jawless fish (Agnatha).
 
 <img src="https://riverplacecapital.com/wp-content/uploads/2014/04/04-14-14.jpg" width="300"/>
+
+* **Ornithology**
+
+In zoology,Ornithology is a branch of zoology that concerns the study of birds. Several aspects of ornithology differ from related disciplines, due partly to the high visibility and the aesthetic appeal of birds.
+
+<img src="https://www.environmentalscience.org/wp-content/uploads/2014/10/Ornithology-Intro-300x300.jpg" width="300"/>
